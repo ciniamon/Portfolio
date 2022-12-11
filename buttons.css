@@ -1,0 +1,54 @@
+
+
+.button1 {
+    padding: 10px 30px;
+    font-size: 16px;
+    color: #FFFFFF;
+    text-decoration: none;
+    background-color: var(--green);
+    border: 2px solid var(--green);
+    border-radius: 20px;
+    cursor: pointer;
+    transition: color 0.5s, background-color 0.5s, border 0.5s;
+}
+
+.button1:hover {
+    background-color: #305d30;
+    border: 2px solid #305d30;
+    color: #FFFFFF;
+}
+
+.button2 {
+    padding: 5px 15px;
+    font-size: 16px;
+    background-color: transparent;
+    text-decoration: none;
+    border: 2px solid var(--grey);
+    color: var(--grey);
+    border-radius: 20px;
+    cursor: pointer;
+    transition: color 0.5s, background-color 0.5s;
+}
+
+.button2:hover {
+    color: #a09795;
+    background-color: var(--grey);
+}
+
+
+
+.card .button{
+	background-color:  var(--green);
+	color: white;
+	text-decoration: none;
+	border: 2px solid transparent;
+	font-weight: bold;
+	padding: 9px 22px;
+	border-radius: 30px;
+	transition: .4s; 
+}
+.card .button:hover{
+	background-color: transparent;
+	border: 2px solid var(--green);
+	cursor: pointer;
+}

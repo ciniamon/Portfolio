@@ -1,0 +1,30 @@
+@import url(components/avatar.css);
+@import url(components/banners.css);
+@import url(components/buttons.css);
+@import url(components/cards.css);
+@import url(components/contrainer.css);
+@import url(components/footer.css);
+@import url(components/galerie.css);
+@import url(components/main.css);
+@import url(components/navbar.css);
+@import url(components/page.css);
+
+:root {
+    --grey: #ffffff;
+    --green: #338f37;
+}
+
+body {
+    
+    margin: 0;
+    font-family: 'Montserrat', sans-serif; 
+    color: white;
+    
+}
+
+span{
+	color: var(--green);
+}
+span2{
+	color: white;
+}

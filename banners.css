@@ -1,0 +1,13 @@
+.description{
+	width: 100%;
+	padding: 100px 0px;
+	background-color: var(--green);
+}
+
+.creation{
+	background-image: url(/images/8r788se4ay661.jpeg);
+	background-size: cover;
+	background-position: center;
+	width: 100%;
+	padding: 100px 0px;
+}

@@ -1,0 +1,36 @@
+
+.item{
+	height: 100vh;
+	width: 100%;
+	background-image: url("/images/PortfolioIV5.jpg");
+	background-size: cover;
+	background-position: center;
+}
+.item2{
+	height: 100vh;
+	width: 100%;
+	background-image: url("/images/PortfolioIV6.jpg");
+	background-size: cover;
+	background-position: center;
+}
+.item3{
+	height: 100vh;
+	width: 100%;
+	background-image: url("/images/PortfolioIV8.jpg");
+	background-size: cover;
+	background-position: center;
+}
+.item4{
+	height: 100vh;
+	width: 100%;
+	background-image: url("/images/PortfolioIV11.jpg");
+	background-size: cover;
+	background-position: center;
+}
+.item5{
+	height: 100vh;
+	width: 100%;
+	background-image: url("/images/PortfolioIV7.jpg");
+	background-size: cover;
+	background-position: center;
+}

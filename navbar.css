@@ -1,0 +1,39 @@
+.navbar{
+	height: 100vh;
+	width: 100%;
+	background-image: url("/images/background.jpeg");
+	background-size: cover;
+	background-position: center;
+}
+
+nav{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding-top: 45px;
+	padding-left: 8%;
+	padding-right: 8%;
+}
+
+.big_title{
+	color: #ffffff;
+	font-size: 45px;
+	letter-spacing: 1px;
+	cursor: pointer;
+}
+
+nav ul li{
+	list-style-type: none;
+	display: inline-block;
+	padding: 10px  25px;
+}
+nav ul li a{
+	color: #ffffff;
+	text-decoration: none;
+	font-weight: bold;
+	text-transform: capitalize;
+}
+nav ul li a:hover{
+	color: var(--green);
+	transition: .4s;
+}
